@@ -1,5 +1,6 @@
 ## Hi👋, I'm Edilson Olegario!
-<h3> Computer Engineer | Developer | Full Stack  </h3>
+<h3> 👨‍💻Computer Engineer | Developer | Full Stack  </h3>
+<h4> 📫 Campinas-SP - Brazi </h4>
 
 <div align="center">
   <a href="https://github.com/edilsonolegario">
