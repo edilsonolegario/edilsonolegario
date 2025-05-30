@@ -1,5 +1,5 @@
 ## Hi👋, I'm Edilson Olegario!
-<h3> 👨‍💻Computer Engineer | Developer | Full Stack  </h3>
+<h3> 👨‍💻Computer Engineer | Fullstack Developer | DevOps Engineer | UI/UX Designer | QA Engineer  </h3>
 <h4> 📫 Campinas-SP - Brazil </h4>
 
 <div align="center">
